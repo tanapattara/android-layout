@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android Layout Application</string>
+    <string name="profile_name">Tanapattara Wongkhamchan</string>
+    <string name="profile_major">Computer and Information Science</string>
+
+    <string name="sample_paragraph">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="button_more">more info</string>
+    <string name="button_mail">email</string>
+    <string name="button_back">Back</string>
+</resources>
